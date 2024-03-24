@@ -1,4 +1,4 @@
-## Hi, I'm Oytun.
+## Hi, I'm Behic Oytun.
 ### I am a software engineer working in Artificial Intelligence and Web Development. 
 
 - 🔭 I’m currently working on Türk Telekom
