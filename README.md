@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on Türk Telekom
 - 🌱 I’m currently learning Machine Learning with Python, Spacecraft Sofware like HAL/S, Fortran, Matlab and Web Developing with next.js, angular, typescript.
 - 📝 I regularly write articles on https://medium.com/@behicoytunsenkul
+- 🥽 MetaMind
 
 ### Connect with me:
 <p align="left">
