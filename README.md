@@ -1,5 +1,5 @@
 # Hi, I'm Behic Oytun.
-## I am a AI/ML Engineer & Web Developer. (ICTWorks - Outsource to SABANCI AGESA)
+## I am an AI/ML Engineer & Web Developer. (ICTWorks - Outsource to SABANCI AGESA)
 
 ## AI & ML
 I focus on multilingual language models, using SpaCy, T5, XLNet, and PyTorch for fine-tuning and deploying NLP systems. My expertise includes feature engineering, BERT-based pipelines, LLM training, and RPA integration to enhance automation.
