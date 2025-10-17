@@ -1,15 +1,23 @@
-## Hi, I'm Behic Oytun.
-### I am a software engineer working in Artificial Intelligence and Web Development. 
+# Hi, I'm Behic Oytun.
+## I am a AI/ML Engineer & Web Developer. (ICTWorks - Outsource to SABANCI AGESA)
 
-- 🔭 I’m currently working on ICTWorks Outsource to AGESA
-- 🌱 I’m currently learning Machine Learning with Python, Spacecraft Sofware like HAL/S, Fortran, Matlab and Web Developing with next.js, angular, typescript.
-- 📝 I regularly write articles on https://medium.com/@behicoytunsenkul
-- 🥽 MetaMind
+## AI & ML
+I focus on multilingual language models, using SpaCy, T5, XLNet, and PyTorch for fine-tuning and deploying NLP systems. My expertise includes feature engineering, BERT-based pipelines, LLM training, and RPA integration to enhance automation.
+
+## Cloud & DevOps
+I manage containerized environments with OpenShift, Kubernetes, and Ansible, implementing GitOps workflows via ArgoCD. I optimize CI/CD pipelines using Jenkins, GitLab CI/CD, and work with Prometheus, Grafana, Ceph, S3, and VMware for monitoring, storage, and virtualization.
+
+## NeuroTech
+I specialize in NeuroTech, merging AI and neuroscience to develop brain-computer interfaces (BCI), cognitive computing, and neuro-inspired AI architectures, bridging automation with human intelligence.
+
+## Technical Expertise
+I work with Python, Golang, Flask, Node.js, and ML frameworks to develop scalable AI and cloud solutions. My expertise includes SQLite, MySQL, Azure AI, and Anthropic, as well as MATLAB, R, and Verilog/SystemVerilog for cognitive computing and neural systems.
+
 
 ### Connect with me:
 <p align="left">
 <a href="https://medium.com/@behicoytunsenkul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@behicoytunsenkul" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/behi%C3%A7-oytun-%C5%9Fenkul-aa7a31202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="behicoytunsenkul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/behicoytunsenkul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="behicoytunsenkul" height="30" width="40" /></a>
 </p>
 
 
